@@ -1,4 +1,4 @@
-# Food-Delivery-Service-Management-System
+# Food-Delivery-Service-Management-Software
 Repository for links and documents related to Software Laboratory Project 
 
 **Links to code repos**
